@@ -50,14 +50,29 @@ the block diagram of the system.
 
 
 <h3 align="center" style=" border-bottom: none ;"> Photographs </h3>
+
 <p align="center">
    
-<p align="center" width="100%">
-    <img width="34.2127%" src="/4.Report/Final Report/figures/circu.png">
-    <img width="27.6790%" src="/4.Report/Final Report/figures/pcb.png">
-</p>
-<p align="center" width="100%">
-    <img width="62.0755%" src="/4.Report/Final Report/figures/pcki.png">
+<p align="center">
+    <img width="40%" src="/4.Report/Final Report/markdown/br1.png">
+    &nbsp&nbsp 
+    <img width="40%" src="/4.Report/Final Report/markdown/osc2.png">
 </p>
 
+<p align="center">
+    <img width="81.8%" src="/4.Report/Final Report/figures/pcki.png">
+</p>
+
+<p align="center">
+    <img width="44.5%" src="/4.Report/Final Report/figures/circu.png">
+    &nbsp&nbsp 
+    <img width="35.47671846%" src="/4.Report/Final Report/figures/pcb.png">
+</p>
+
+<p align="center">
+    <img width="81.8%" src="/4.Report/Final Report/markdown/osc1.png">
+</p>
+<p align="center">
+    <img width="81.8%" src="/4.Report/Final Report/markdown/fin.png">
+</p>
 
